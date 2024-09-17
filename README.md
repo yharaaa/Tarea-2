@@ -24,6 +24,12 @@ Este repositorio contiene un análisis espacial de tres capas geográficas de Co
 
 4. **Peajes en colombia**: puntos color celeste 
 
+## Gráfico del mapa
+
+![mapa](https://github.com/user-attachments/assets/572ff89b-b25c-4979-9d6d-047670444060)
+
 ## Enlace al mapa publicado
 
 Puedes ver el mapa de las divisiones administrativas, los ríos y los aeropuertos en Colombia en el siguiente enlace: [Mapa Publicado](https://yharaaa.github.io/Tarea-2/).
+
+
